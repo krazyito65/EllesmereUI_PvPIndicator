@@ -1,0 +1,6 @@
+package-as: EllesmereUI_PvPIndicator
+
+ignore:
+  - .github
+  - .gitignore
+  - README.md
