@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.jpg" alt="EllesmereUI PvP Indicator Logo" width="180" />
+</p>
+
 # EllesmereUI PvP Indicator
 
 An [EllesmereUI](https://www.curseforge.com/wow/addons/ellesmereui) plugin for World of Warcraft that adds a PvP-flag indicator beside names on friendly "Name Only" nameplates.
