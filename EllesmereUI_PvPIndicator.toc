@@ -1,0 +1,13 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 120105, 16001
+## Title: |cff0cd29fEllesmereUI|r PvP Indicator
+## Notes: EllesmereUI plugin: shows a PvP-flag indicator beside names on friendly name-only nameplates.
+## Category: |cff0cd29fEllesmere|rUI
+## Author: Leon
+## Version: 1.0.0
+## Dependencies: EllesmereUI
+## OptionalDeps: EllesmereUINameplates
+## SavedVariables: EllesmereUI_PvPIndicatorDB
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+Core.lua
+Options.lua

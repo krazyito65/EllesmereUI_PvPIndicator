@@ -1,0 +1,8 @@
+# OS / IDE artifacts
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
