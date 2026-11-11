@@ -5,3 +5,4 @@ ignore:
   - .gitignore
   - README.md
   - logo.jpg
+  - curseforge_description.txt
